@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=RIFLE
+GenericName=Audio Video Converter
+X-GNOME-FullName=RIFLE (Revolutionary Interface for FFmpeg in Linux Environment)
+Comment=A Kickass tool to convert your audio and video files
+Exec=python /usr/bin/rifle.py
+Icon=/usr/share/RIFLE/RIFLE.png
+Terminal=false
+Type=Application
+Categories=GNOME;AudioVideo;GTK;Python;
+StartupNotify=false
+Name[en_IN]=RIFLE

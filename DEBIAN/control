@@ -1,0 +1,20 @@
+Package: rifle
+Version: 1.0
+Section: Frontend
+Priority: optional
+Architecture: all
+Essential: No
+Depends: python, ffmpeg
+Maintainer: Nakul Ezhuthupally <nakule@gmail.com>
+Installed-Size: 74
+Homepage: http://www.blog.nakule.co.cc
+Description: A kickass tool to convert your audio and video files
+ RIFLE which stands for 'Revolutionary Interface for FFmpeg in
+ Linux Environment' is a graphical frontend to the ever famous
+ ffmpeg.
+ .
+ RIFLE stresses on simplicity and user experience. The user 
+ interface and must come off as intuitive for almost all users.
+ .
+ RIFLE supports numerous audio and video formats for both 
+ encoding and decoding.
